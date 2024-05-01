@@ -1,4 +1,4 @@
-# Docker stack web by mboyov
+# Deprecated ! Docker stack web by mboyov
 
 - DockerHub : [mboyov/apache2-php74](https://hub.docker.com/r/mboyov/apache2-php74/)
  
